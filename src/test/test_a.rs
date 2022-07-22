@@ -1,3 +1,7 @@
 pub fn func_a() {
-    println!("Aだよ、お兄ちゃん!");
+    println!("お兄ちゃん大好き!");
+}
+
+pub fn cat(){
+    println!("にゃーん");
 }
